@@ -1,2 +1,2 @@
 1. npm install
-2. npm start
+2. json-server --watch database/db.json
