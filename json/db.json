@@ -1,0 +1,72 @@
+{
+  "menu": [
+    {
+      "src": "img/tabs/1.png",
+      "alt": "plans img",
+      "title": "Usual",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 10
+    },
+    {
+      "src": "img/tabs/2.jpg",
+      "alt": "plans img",
+      "title": "Premium",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 15
+    },
+    {
+      "src": "img/tabs/3.jpg",
+      "alt": "plans img",
+      "title": "VIP",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 20
+    }
+  ],
+  "requests": [
+    {
+      "user-name": "Salom",
+      "user-number": "123",
+      "id": 1
+    },
+    {
+      "user-name": "Muhammad Xamidov",
+      "user-number": "123",
+      "id": 2
+    },
+    {
+      "user-name": "asd",
+      "user-number": "123",
+      "id": 3
+    },
+    {
+      "user-name": "Salom",
+      "user-number": "12312",
+      "id": 4
+    },
+    {
+      "user-name": "Muhammad Xamidov",
+      "user-number": "1231",
+      "id": 5
+    },
+    {
+      "user-name": "Muhammad Xamidov",
+      "user-number": "1234",
+      "id": 6
+    },
+    {
+      "user-name": "Muhammad Xamidov",
+      "user-number": "123123",
+      "id": 7
+    },
+    {
+      "user-name": "Muhammad Xamidov",
+      "user-number": "123123",
+      "id": 8
+    },
+    {
+      "user-name": "Nurbek Xamidov",
+      "user-number": "123",
+      "id": 9
+    }
+  ]
+}
